@@ -1,0 +1,15 @@
+# CCS Project Files
+.launches/
+.settings/
+
+# Debug
+Debug/
+!Debug/*.bmp
+
+# Release
+Release/
+
+# vim related
+*.~
+*.swp
+*~
